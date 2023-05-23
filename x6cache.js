@@ -182,7 +182,7 @@ var SuperlCache = (function () {
         },
         setCookieDomainPath: function(value) {
             _const['cookie_domain_path'] = value
-        }
+        },
         setData: function(value){
             setCacheData(value);
         },
